@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./readme-img/mavis-logo-new-3d-2.png" width="350"/>
+    <img src="./readme-img/mavis-ultra-logo.png" width="350"/>
 </p>
 
 <br>
@@ -48,6 +48,6 @@
   <img src="./readme-img/mavis-ultra-ads1.png" alt="mavis" width="1400" style="margin: 10px;">
 </div>
 
-Only for important math nerds
+Only for real math nerds
 
 ## _News_
