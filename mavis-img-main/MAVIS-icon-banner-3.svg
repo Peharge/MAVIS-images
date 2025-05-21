@@ -14,9 +14,9 @@
 
 </clipPath>
 
-<g clip-path="url(#r)"><rect width="0" height="20" fill="#555"/>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="#555555"/>
 
-<rect x="0" width="69" height="20" fill="gray"/>
+<rect x="0" width="69" height="20" fill="#555555"/>
 
 <rect width="69" height="20" fill="url(#s)"/>
 
